@@ -1,4 +1,4 @@
-var dadosFilmes = require('../modulo/APIfilmes')
+var dadosFilmes = require('../modulo/filmes')
 
 const listarFilmes = () => {
     let filmes = dadosFilmes.filmes.filmes
